@@ -1,1 +1,1 @@
-alias project
+1 - a script that creates an alias
